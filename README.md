@@ -29,6 +29,8 @@
 ```bash
 quarto preview
 quarto render
+
+quarto preview index.qmd
 ```
 
 ## Публикация
