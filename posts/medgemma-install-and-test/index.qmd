@@ -1,5 +1,5 @@
 ---
-title: "MedGemma: install and test"
+title: "MedGemma27b установка и тестирование"
 subtitle: "Установка medgemma:27b, подготовка МРТ-данных и оценка качества заключений модели"
 author:
   - name: Бушуков Эмир
