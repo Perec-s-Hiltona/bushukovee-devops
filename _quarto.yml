@@ -8,7 +8,7 @@ project:
 website:
   title: "bushukovee posts"
   site-url: https://bushukovee-devops.ru
-  repo-url: https://github.com
+  repo-url: https://github.com/bushukovee-devops/bushukovee-posts
   repo-branch: master
   repo-actions: [edit, source]
   navbar:
