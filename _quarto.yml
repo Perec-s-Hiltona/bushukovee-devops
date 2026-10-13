@@ -1,13 +1,10 @@
 project:
   type: website
   output-dir: _site
-  # Указываем Quarto, что файл CNAME нужно копировать в финальную сборку
-  resources:
-    - CNAME
 
 website:
   title: "bushukovee posts"
-  site-url: https://bushukovee-devops.ru
+  site-url: https://bushukovee-devops.github.io/bushukovee-posts
   repo-url: https://github.com/bushukovee-devops/bushukovee-posts
   repo-branch: master
   repo-actions: [edit, source]
